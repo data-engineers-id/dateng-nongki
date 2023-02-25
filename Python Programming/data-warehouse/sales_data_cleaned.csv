@@ -1,0 +1,98 @@
+country,type,channel,priority,date,id,units_sold,unit_price
+Tuvalu,Baby Food,Offline,H,2010-05-28,669165933,9925.0,255.28
+Sao Tome and Principe,Fruits,Online,C,2014-06-20,514321792,8102.0,9.33
+Angola,Household,Offline,M,2011-04-23,135425221,4187.0,668.27
+Burkina Faso,Vegetables,Online,H,2012-07-17,871543967,8082.0,154.06
+Republic of the Congo,Personal Care,Offline,M,2015-07-14,770463311,6070.0,81.73
+Senegal,Cereal,Online,H,2014-04-18,616607081,6593.0,205.7
+Kyrgyzstan,Vegetables,Online,H,2011-06-24,814711606,124.0,154.06
+Cape Verde,Clothes,Offline,H,2014-08-02,939825713,4168.0,109.28
+Bangladesh,Clothes,Online,L,2017-01-13,187310731,8263.0,109.28
+Honduras,Household,Offline,H,2017-02-08,522840487,8974.0,668.27
+Mongolia,Personal Care,Offline,C,2014-02-19,832401311,4901.0,81.73
+Bulgaria,Clothes,Online,M,2012-04-23,972292029,1673.0,109.28
+Sri Lanka,Cosmetics,Offline,M,2016-11-19,419123971,6952.0,437.2
+Cameroon,Beverages,Offline,C,2015-04-01,519820964,5430.0,47.45
+Turkmenistan,Household,Offline,L,2010-12-30,441619336,3830.0,668.27
+East Timor,Meat,Online,L,2012-07-31,322067916,5908.0,421.89
+Norway,Baby Food,Online,L,2014-05-14,819028031,7450.0,255.28
+Portugal,Baby Food,Online,H,2015-07-31,860673511,1273.0,255.28
+Honduras,Snacks,Online,L,2016-06-30,795490682,2225.0,152.58
+New Zealand,Fruits,Online,H,2014-09-08,142278373,2187.0,9.33
+Moldova ,Personal Care,Online,L,2016-05-07,740147912,5070.0,81.73
+France,Cosmetics,Online,H,2017-05-22,898523128,1815.0,437.2
+Kiribati,Fruits,Online,M,2014-10-13,347140347,5398.0,9.33
+Mali,Fruits,Online,L,2010-05-07,686048400,5822.0,9.33
+Norway,Beverages,Offline,C,2014-07-18,435608613,5124.0,47.45
+The Gambia,Household,Offline,L,2012-05-26,886494815,2370.0,668.27
+Switzerland,Cosmetics,Offline,M,2012-09-17,249693334,8661.0,437.2
+South Sudan,Personal Care,Offline,C,2013-12-29,406502997,2125.0,81.73
+Australia,Office Supplies,Online,C,2015-10-27,158535134,2924.0,651.21
+Myanmar,Household,Offline,H,2015-01-16,177713572,8250.0,668.27
+Djibouti,Snacks,Online,M,2017-02-25,756274640,7327.0,152.58
+Costa Rica,Personal Care,Offline,L,2017-05-08,456767165,6409.0,81.73
+Syria,Fruits,Online,L,2011-11-22,162052476,3784.0,9.33
+The Gambia,Meat,Online,M,2017-01-14,825304400,4767.0,421.89
+Brunei,Office Supplies,Online,L,2012-04-01,320009267,6708.0,651.21
+Bulgaria,Office Supplies,Online,M,2012-02-16,189965903,3987.0,651.21
+Niger,Personal Care,Online,H,2017-03-11,699285638,3015.0,81.73
+Azerbaijan,Cosmetics,Online,M,2010-02-06,382392299,7234.0,437.2
+The Gambia,Cereal,Offline,H,2012-06-07,994022214,2117.0,205.7
+Slovakia,Vegetables,Online,H,2012-10-06,759224212,171.0,154.06
+Myanmar,Clothes,Online,H,2015-11-14,223359620,5930.0,109.28
+Comoros,Cereal,Offline,H,2016-03-29,902102267,962.0,205.7
+Iceland,Cosmetics,Online,C,2016-12-31,331438481,8867.0,437.2
+Switzerland,Personal Care,Online,M,2010-12-23,617667090,273.0,81.73
+Macedonia,Clothes,Offline,C,2014-10-14,787399423,7842.0,109.28
+Mauritania,Office Supplies,Offline,C,2012-01-11,837559306,1266.0,651.21
+Albania,Clothes,Online,C,2010-02-02,385383069,2269.0,109.28
+Lesotho,Fruits,Online,L,2013-08-18,918419539,9606.0,9.33
+Saudi Arabia,Cereal,Online,M,2013-03-25,844530045,4063.0,205.7
+Sierra Leone,Office Supplies,Offline,M,2011-11-26,441888415,3457.0,651.21
+Sao Tome and Principe,Fruits,Offline,H,2013-09-17,508980977,7637.0,9.33
+Cote d'Ivoire,Clothes,Online,C,2012-06-08,114606559,3482.0,109.28
+Fiji,Clothes,Offline,C,2010-06-30,647876489,9905.0,109.28
+Austria,Cosmetics,Offline,H,2015-02-23,868214595,2847.0,437.2
+United Kingdom,Household,Online,L,2012-01-05,955357205,282.0,668.27
+Djibouti,Cosmetics,Offline,H,2014-04-07,259353148,7215.0,437.2
+Australia,Cereal,Offline,H,2013-06-09,450563752,682.0,205.7
+San Marino,Baby Food,Online,L,2013-06-26,569662845,4750.0,255.28
+Cameroon,Office Supplies,Online,M,2011-11-07,177636754,5518.0,651.21
+Libya,Clothes,Offline,H,2010-10-30,705784308,6116.0,109.28
+Haiti,Cosmetics,Offline,H,2013-10-13,505716836,1705.0,437.2
+Rwanda,Cosmetics,Offline,H,2013-10-11,699358165,4477.0,437.2
+Gabon,Personal Care,Offline,L,2012-07-08,228944623,8656.0,81.73
+Belize,Clothes,Offline,M,2016-07-25,807025039,5498.0,109.28
+Lithuania,Office Supplies,Offline,H,2010-10-24,166460740,8287.0,651.21
+Madagascar,Clothes,Offline,L,2015-04-25,610425555,7342.0,109.28
+Turkmenistan,Office Supplies,Online,M,2013-04-23,462405812,5010.0,651.21
+Libya,Fruits,Online,L,2015-08-14,816200339,673.0,9.33
+Democratic Republic of the Congo,Beverages,Online,C,2011-05-26,585920464,5741.0,47.45
+Djibouti,Cereal,Online,H,2017-05-20,555990016,8656.0,205.7
+Pakistan,Cosmetics,Offline,L,2013-07-05,231145322,9892.0,437.2
+Mexico,Household,Offline,C,2014-11-06,986435210,6954.0,668.27
+Federated States of Micronesia,Beverages,Online,C,2014-10-28,217221009,9379.0,47.45
+Laos,Vegetables,Offline,C,2011-09-15,789176547,3732.0,154.06
+Monaco,Baby Food,Offline,H,2012-05-29,688288152,8614.0,255.28
+Samoa ,Cosmetics,Online,H,2013-07-20,670854651,9654.0,437.2
+Spain,Household,Offline,L,2012-10-21,213487374,4513.0,668.27
+Lebanon,Clothes,Online,L,2012-09-18,663110148,7884.0,109.28
+Iran,Cosmetics,Online,H,2016-11-15,286959302,6489.0,437.2
+Zambia,Snacks,Online,L,2011-01-04,122583663,4085.0,152.58
+Kenya,Vegetables,Online,L,2012-03-18,827844560,6457.0,154.06
+Mexico,Personal Care,Offline,L,2012-02-17,430915820,6422.0,81.73
+Sao Tome and Principe,Beverages,Offline,C,2011-01-16,180283772,8829.0,47.45
+The Gambia,Baby Food,Offline,M,2014-02-03,494747245,5559.0,255.28
+Kuwait,Fruits,Online,M,2012-04-30,513417565,522.0,9.33
+Slovenia,Beverages,Offline,C,2016-10-23,345718562,4660.0,47.45
+Sierra Leone,Office Supplies,Offline,H,2016-12-06,621386563,948.0,651.21
+Australia,Beverages,Offline,H,2014-07-07,240470397,9389.0,47.45
+Azerbaijan,Office Supplies,Online,M,2012-06-13,423331391,2021.0,651.21
+Romania,Cosmetics,Online,H,2010-11-26,660643374,7910.0,437.2
+Nicaragua,Beverages,Offline,C,2011-02-08,963392674,8156.0,47.45
+Mali,Clothes,Online,M,2011-07-26,512878119,888.0,109.28
+Malaysia,Fruits,Offline,L,2011-11-11,810711038,6267.0,9.33
+Sierra Leone,Vegetables,Offline,C,2016-06-01,728815257,1485.0,154.06
+Mexico,Personal Care,Offline,M,2015-07-30,559427106,5767.0,81.73
+Mozambique,Household,Offline,L,2012-02-10,665095412,5367.0,668.27
+Indonesia,Fruits,Online,H,2012-08-22,669165412,97.0,9925.0
