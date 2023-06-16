@@ -13,7 +13,7 @@ This Repository contain source code for event Workshop Intro SQL using PostgreSQ
 - Click New Database Connection
 - Choose PostgreSQL then click Next
 - Input Host : localhost, databases postgres, username: postgres, password: your DB password then click Finish
-![postgresql connection info](/dateng-nongki/IntroSQL/images/postgreSQL_connection_info.png)
+![postgresql connection info](./images/postgreSQL_connection_info.png)
 
 <br>
 
