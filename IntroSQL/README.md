@@ -2,7 +2,7 @@
 This Repository contain source code for event Workshop Intro SQL using PostgreSQL
 
 ## Prerequisite
-- PostgreSQL with include pgadmin. [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+- PostgreSQL version 14 or above with include pgadmin. [Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 - DBeaver. [Download](https://dbeaver.io/download/)
 - VSCode (optional). [Download](https://code.visualstudio.com/download)
 
