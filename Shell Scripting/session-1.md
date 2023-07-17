@@ -11,6 +11,14 @@ We will use a shell script called `bash`, which is widely used in the industry a
 - A Terminal: Linux or Mac users will be using your default terminal app, while Windows users can use GitBash for the terminal.
 ![a Terminal](images/1-environment-gitbash.png)
 
+- Let's try it using some basic commands
+    * $ ls 
+    * $ pwd
+    * $ cd
+    * $ echo
+
+    <br>
+
 - A Text Editor: It’s really a weapon of choice, you can use your favorite text editor.
   We will use `vim` for this course, please adjust it to your preferred text editor.
   ![vim interface](images/1-vim.png)
@@ -19,3 +27,4 @@ We will use a shell script called `bash`, which is widely used in the industry a
   - awk
   - sed
   - etc.
+
