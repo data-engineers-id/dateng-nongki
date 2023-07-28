@@ -56,11 +56,14 @@ this command is used to retrieve current system's date and time
 <br>
 <br>
 ![if-else-args][if-else-args]
+
 ### if-else-args-loop
 - copy the if-else-args.sh into a new file called `if-else-args-loop.sh`
 - modify the new file so the output is similar to this (5 minutes)<br>
 
-![if-else-args-loop][if-else-args-loop]### for
+![if-else-args-loop][if-else-args-loop]
+
+### for
 
 
 
