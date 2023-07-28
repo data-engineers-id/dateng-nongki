@@ -1,0 +1,81 @@
+[
+  {
+    "Nama": "Arnetha_Marchelina",
+    "Umur": 25
+  },
+  {
+    "Nama": "Sebastian_Cahyo_Ardhi_Iswara",
+    "Umur": 30,
+    "alamat": {
+        "kota": "New York",
+        "kodepos": "10001"
+      },
+      "hobbies": ["reading", "painting", "hiking"]
+  },
+  {
+    "Nama": "Helmi_Aziz_Muhammad",
+    "Umur": 22
+  },
+  {
+    "Nama": "Muhammad_Ridwan_Maulana",
+    "Umur": 28,
+    "alamat": {
+        "kota": "Jakarta",
+        "kodepos": "00892"
+      },
+      "hobbies": ["swimming", "dancing"]
+  },
+  {
+    "Nama": "Arif_Setiyawan",
+    "Umur": 24
+  },
+  {
+    "Nama": "Rahmatulloh",
+    "Umur": 31
+  },
+  {
+    "Nama": "Aidiel_Fitra",
+    "Umur": 23
+  },
+  {
+    "Nama": "Yusuf_Hanafi_Angkat",
+    "Umur": 26
+  },
+  {
+    "Nama": "Isharridho_Pratama",
+    "Umur": 27
+  },
+  {
+    "Nama": "Vincent_Junitio_Ungu",
+    "Umur": 29
+  },
+  {
+    "Nama": "Hairulloh_Sukur",
+    "Umur": 33
+  },
+  {
+    "Nama": "Yuandika_Alfahreiza",
+    "Umur": 20
+  },
+  {
+    "Nama": "Sahala_Josua_Sinaga",
+    "Umur": 34,
+    "alamat": {
+        "kota": "Bangalore",
+        "kodepos": "4435AA"
+      },
+      "hobbies": ["cooking", "photography"]
+  },
+  {
+    "Nama": "Septian_Dwi_Kurnia",
+    "Umur": 21
+  },
+  {
+    "Nama": "Fitra_Anugrah",
+    "Umur": 32
+  },
+  {
+    "Nama": "Muhammad_Ridwan_Maulana",
+    "Umur": 35
+  }
+]
