@@ -46,7 +46,7 @@ this command is used to retrieve current system's date and time
 ### if-else
 - In this script, we prompt the user to enter a number using the read command. Then, we use an if-else construct to check if the number is greater than 10. If the condition is true, we display a message indicating that the number is greater than 10. Otherwise, we display a message indicating that the number is less than or equal to 10.
 <br>
-![if-else]
+![if-else][if-else]
 
 ### if-else-args
 - copy the if-else.sh into a new file calles `if-else-args.sh`
