@@ -1,0 +1,5 @@
+2022-01-01,INFO,User logged in
+2022-01-01,ERROR,Invalid input detected
+2022-01-02,WARNING,Disk space low
+2022-01-02,ERROR,Database connection failed
+2022-01-03,INFO,User logged out
