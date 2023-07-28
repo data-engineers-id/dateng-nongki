@@ -62,7 +62,6 @@ marp: true
 ## Basic control structures
 ### if-else
 - In this script, we prompt the user to enter a number using the read command. Then, we use an if-else construct to check if the number is greater than 10. If the condition is true, we display a message indicating that the number is greater than 10. Otherwise, we display a message indicating that the number is less than or equal to 10.
-
 ![if-else][if-else]
 
 ---
