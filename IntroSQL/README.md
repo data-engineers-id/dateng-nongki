@@ -126,7 +126,7 @@ WHERE unit_price > 10
 ```
 SELECT * FROM products
 WHERE unit_price > 10
-ORDER BY units_in_stocks DESC
+ORDER BY units_in_stock DESC
 ```
 ### 5.4 Limit Retrieve Data
 - Retrieve Top 10 Data
